@@ -1,1 +1,4 @@
 VERSION : TODO-APP-2.0-SNAPSHOT
+merged with
+VERSION : TODO-APP-1.1
+
